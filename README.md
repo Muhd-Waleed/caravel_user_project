@@ -22,5 +22,3 @@
 # Uqab RISC-V SoC
 Uqab is an SoC which hold 32-bit RISCV based processor and have peripherals (Pulse Width Modulation (PWM) ,Serial Peripheral Interface (SPI),General Purpose Input Output  (GPIO), and Timer)
 
-## Azadi SoC DFFRAM: Flattened with user_project_wrapper
-![azadi-gds](images/gds.png)
